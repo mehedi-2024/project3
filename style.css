@@ -10,7 +10,7 @@ body{
 }
 
 .card{
-    width: 20%;
+    max-width: 500px;
     margin: 40px auto;
     box-shadow: 0 5px 10px rgba(0,0,0,0.1);
     border-radius: 20px;
@@ -71,6 +71,22 @@ body{
     font-size: 3rem;
     padding: 30px 15px;
     
+}
+
+i#one{
+    color: #316FF6;
+}
+
+i#two{
+    color: 	#1DA1F2;
+}
+
+i#three{
+    color:  #c21d7d;
+}
+
+i#four{
+    color: #db0909;
 }
 
 
